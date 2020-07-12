@@ -27,5 +27,6 @@ $ npm i
 ## Development
 
 ```
-$ npm start
+$ npm run deploy
+Then visit dist/index.html in browser
 ```
